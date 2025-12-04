@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dhanashalini S
 
-<!--
-**dhanashalini25/dhanashalini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Full Stack Developer focused on building clean, functional, and user-friendly web applications.  
+I enjoy learning new technologies and improving my problem-solving skills through real-world projects.
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript  
+- React 
+- Node.js, Express 
+- C Programming  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Full Stack Development (MERN)  
+- Building end-to-end real projects  
+
+## Projects
+- Quiz Website  
+- Portfolio Website  
+- E-commerce Website 
+
+## Goals
+- Strengthen full-stack development skills  
+- Build 3 complete, production-ready full-stack projects  
+- Contribute to open-source projects  
+
+
